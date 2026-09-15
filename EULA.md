@@ -79,6 +79,8 @@ To function, the Software runs local HTTP and WebSocket servers on your machine 
 - **On activation:** your licence key, and a label for the computer made up of its hostname and operating system (for example, "DESKTOP-7F2A (win32)"). This label appears in your licence records so you can identify which computer to release.
 - **On periodic verification, and when releasing a computer:** your licence key and the activation identifier issued when you activated.
 
+**Software updates.** The Software checks for a new version when it starts and periodically thereafter. That request reaches GitHub, which hosts the downloads and receives your IP address and basic request information as it would for any web request. No licence key or identifying information is sent with it.
+
 No other information about you, your computer, or your use of the Software is transmitted.
 
 **Where your key is stored.** Your licence key is stored on your computer, encrypted using your operating system's credential storage where available.
