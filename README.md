@@ -33,9 +33,9 @@ Single elimination, double elimination and round robin brackets feed results str
 
 CORE is free to use. The free tier covers two schools, four teams and one bracket at a time — enough to run a real head-to-head — with every overlay, map veto, replay capture and the OBS scene builder included.
 
-Paid tiers remove the limits and add overlay customisation, custom hotkeys, your own overlay imports and custom games. Licences are available annually or per semester.
+Paid tiers remove the limits and add overlay customisation, custom hotkeys, your own overlay imports and custom games. During the beta, licences are issued directly — message **greyb2** on Discord if you'd like one.
 
-<!-- TODO: add the Lemon Squeezy store link here once the store is public. -->
+<!-- TODO: replace the Discord line with the Lemon Squeezy storefront link once the store is out of test mode. -->
 
 Activate from **Connect → Licence** inside the app.
 
@@ -55,4 +55,4 @@ CORE runs locally. Your match data, rosters, overlays and replays stay on your o
 
 CORE is currently in public beta. It works, it is in use on real broadcasts, and it still has rough edges. If you hit one, please say so — bug reports during beta are worth more than they will ever be again.
 
-**Contact:** greysonbillups@gmail.com
+**Contact:** greysonbillups@gmail.com, or **greyb2** on Discord
