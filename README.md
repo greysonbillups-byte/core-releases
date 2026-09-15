@@ -10,9 +10,9 @@ This repository hosts the downloads. The source is private.
 
 ## Download
 
-**[Get the latest release →](../../releases/latest)**
+**[Download the latest build →](../../releases)**
 
-Download `CORE-Setup-<version>.exe` and run it. CORE updates itself after that, so this is the only manual download you need.
+Grab `CORE-Setup-<version>.exe` from the newest release and run it. CORE updates itself after that, so this is the only manual download you need.
 
 ### Requirements
 
