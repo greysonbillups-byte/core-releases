@@ -44,9 +44,10 @@ Activate from **Connect → Licence** inside the app.
 ## Terms
 
 - [End User Licence Agreement](EULA.md)
+- [Privacy policy](PRIVACY.md)
 - [Copyright notice](LICENSE)
 
-CORE runs locally. Your match data, rosters, overlays and replays stay on your own computer — see *Your Data and Privacy* in the agreement for the full detail on what licence activation sends.
+CORE runs locally. Your match data, rosters, overlays and replays stay on your own computer — see the [privacy policy](PRIVACY.md) for exactly what leaves your machine and when.
 
 ---
 
